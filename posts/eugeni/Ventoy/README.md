@@ -1,0 +1,13 @@
+‼️ VENTOY ‼️
+
+⭕️ El pasado mes de septiembre os hablé sobre Ventoy ( https://t.me/UnRAID_ES/76512 ) la cual es una herramienta de código abierto para crear una unidad USB de arranque para archivos ISO/WIM/IMG/VHD(x)/EFI. Con ventoy, no necesitas formatear el disco una y otra vez, solo necesitas copiar los archivos ISO/WIM/IMG/VHD(x)/EFI a la unidad USB y arrancarlos directamente
+
+Y ahora, actualizo esta información dado que se dio a conocer el lanzamiento de la nueva versión de Ventoy 1.0.62 ( https://www.ventoy.net/en/index.html y https://github.com/ventoy/Ventoy/releases ) para generar dispositivos USB de arranque con múltiples sistemas operativos.
+
+⭕️ El programa se destaca porque proporciona la capacidad de iniciar el sistema operativo desde imágenes ISO, WIM, IMG, VHD y EFI sin cambios, sin necesidad de desempaquetar la imagen o reformatear el medio. Por ejemplo, basta con copiar el conjunto de isoimágenes de interés a una memoria flash USB con el gestor de arranque y Ventoy proporcionará la capacidad de arrancar los sistemas operativos internos.
+
+En cualquier momento, se puede reemplazar o agregar nuevas imágenes ISO simplemente copiando nuevos archivos, lo cual es conveniente para realizar pruebas y familiarizarse preliminarmente con varias distribuciones y sistemas operativos. El código del proyecto está escrito en C y se distribuye con licencia GPLv3.
+
+⭕️ Ventoy admite el arranque en sistemas con BIOS, IA32 UEFI, x86_64 UEFI, ARM64 UEFI, UEFI Secure Boot y MIPS64EL UEFI con tablas de partición MBR o GPT. Admite la carga de varios tipos de Windows, WinPE, Linux, BSD, ChromeOS, así como imágenes de máquinas virtuales Vmware y Xen. Los desarrolladores han probado más de 770 imágenes iso con Ventoy, incluidas varias versiones de Windows y Windows Server, varios cientos de distribuciones de Linux (se declara que el 90% de las distribuciones presentadas en distrowatch.com están comprobadas), más de una docena de sistemas BSD ( FreeBSD, DragonFly BSD, pfSense, FreeNAS, etc.).
+
+⭕️ Además de los medios USB, el gestor de arranque Ventoy se puede instalar en discos locales, SSD, NVMe, tarjetas SD y otros tipos de unidades que utilizan sistemas de archivos FAT32, exFAT, NTFS, UDF, XFS o Ext2 /3/4. Existe un modo de instalación automatizada del sistema operativo en un archivo en un medio portátil con la capacidad de agregar sus propios archivos al entorno creado (por ejemplo, para crear imágenes con distribuciones de Windows o Linux que no son compatibles con el modo Live).😎
