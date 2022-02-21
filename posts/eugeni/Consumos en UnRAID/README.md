@@ -12,9 +12,7 @@
 
 💬 Seamos entre todos responsables y ayudemos a que estos consumos excesivos de los dispositivos no lleguen a ser un quebradero de cabeza en nuestras facturas mensuales de consumo eléctrico dado que hoy en día son sin lugar a dudas tema de conversación y queja por parte de muchos.
 
-<p align="center">
 ![Consumos en UnRAID](https://github.com/dieghada/prueba/blob/main/posts/eugeni/Consumos%20en%20UnRAID/images/image01.jpg)
-</p>
 
 ![Consumos en UnRAID](https://github.com/dieghada/prueba/blob/main/posts/eugeni/Consumos%20en%20UnRAID/images/image02.jpg)
 
